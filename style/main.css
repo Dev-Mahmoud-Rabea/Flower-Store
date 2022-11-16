@@ -1069,6 +1069,7 @@ footer .social-icon a {
 	footer .container {
 		flex-direction: column;
 		align-items: center;
+		text-align: center;
 	}
 	footer .item {
 		padding: 1.25rem;
